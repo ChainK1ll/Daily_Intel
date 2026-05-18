@@ -1,1 +1,1 @@
-I created this repo to share daily intel about IOCs and IOAs. I hunt every day , welcome to contributors!
+This repository publishes IOCs and IOAs I personally discover through daily threat hunting. Every indicator comes from custom hunting rules I build on infrastructure intelligence platforms — Validin, Shodan, Censys, FOFA — tuned to fingerprint specific malware families, C2 frameworks, and phishing infrastructure. This is the output of my own hunting, not a re-aggregation of public feeds.
